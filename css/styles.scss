@@ -1,0 +1,102 @@
+@import "https://github.com/necolas/normalize.css/blob/master/normalize.css";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,900;1,400;1,900&display=swap');
+
+$color-blue: #0d8fcd;
+$color-white: #ffffff;
+$color-black: #333333;
+$color-grey: #808080;
+
+body {
+  font-family: Montserrat, sans-serif;
+  color: $color-black;
+  margin: 0;
+}
+
+section {
+  padding-left: 10px;
+}
+
+h3 {
+  color: $color-blue;
+}
+
+h3::after {
+  content: '';
+  width: 35px;
+  height: 3px;
+  background-color: $color-grey;
+  display: block;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  border-left: 20px solid $color-blue;
+  box-shadow: 0 5px 9px 0 rgba(0, 0, 0, 0.35);
+  h1{
+    font-size: 2em;
+  }
+}
+
+.resume {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-gap: 5px;
+  border-left: 5px solid $color-black;
+  border-left: 5px solid $color-grey;
+  padding-top: 10px;
+  grid-template-areas:
+    "photo name"
+    "about work"
+    "education work"
+    "skills community";
+}
+
+.name {
+  grid-area: name;
+  h2{
+    color: $color-grey;
+  }
+}
+
+.photo {
+  grid-area: photo;
+
+  &_wrapper {
+    overflow: hidden;
+    height: 200px;
+    width: 200px;
+    border: 1px solid $color-blue;
+
+    img {
+      width: 100%;
+    }
+  }
+}
+
+.about {
+  grid-area: about;
+}
+
+.work {
+  grid-area: work;
+}
+
+.education {
+  grid-area: education;
+}
+
+.community {
+  grid-area: community;
+}
+
+.skills {
+  grid-area: skills;
+}
+
+@media (min-width: 1200px) {
+
+}
+
