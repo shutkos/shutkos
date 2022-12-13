@@ -7,8 +7,7 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=SASS&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-000000?style=for-the-badge&logo=BOOTSTRAP&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=PHP&logoColor=white)
-![LARAVEL](https://img.shields.io/badge/LARAVEL-000000?style=for-the-badge&logo=LARAVEL&logoColor=white)
+
 
 <!--
 **shutkos/shutkos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
