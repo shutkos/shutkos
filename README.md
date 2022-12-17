@@ -1,6 +1,9 @@
-# I am Shutko Kostiantyn
-## Доброго вечора, ми з України
-### Skills
+##### Hi, my name is
+# Shutko Kostiantyn
+## I love building digital products
+### I am a search engine optimization specialist with twenty years of experience who moved into front-end
+                development.
+#### Skills
 
 ![html5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=white)
