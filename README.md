@@ -1,7 +1,7 @@
 Hi, my name is
 # Shutko Kostiantyn
-## I love building digital products
-### I am a search engine optimization specialist with twenty years of experience who moved into front-end development.
+## I like building digital products
+### I'm a webmaster and search engine optimization specialist with twelve years of experience. I'm currently interested in front-end development and I decided to change my activity profile ...
 #### Skills
 
 ![html5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)
